@@ -59,7 +59,7 @@ WARNING!!! WARNING!!!
      byeSpeaker(names[i]);
     } 
     else {
-    helloSpeaker(names[i])
+    helloSpeaker(names[i]);
   }
 
 }
